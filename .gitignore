@@ -1,5 +1,6 @@
-#
+# custom files
 .vscode/
+csv/
 
 # History files
 .Rhistory
